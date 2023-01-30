@@ -23,6 +23,7 @@
 
 /* MAIN */
 
+/* Changed the previous version of this selector removing "padding" and adding width and margin */
 .main-container, footer{
     width: 80%;
     margin: auto;
