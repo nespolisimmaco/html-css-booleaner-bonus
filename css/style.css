@@ -55,14 +55,13 @@
 }
 
 table{
-    width: 100%;
+    
     border-collapse: collapse;
 }
 
 th{
     background-color: cornflowerblue;
     color: white;
-    width: 33%;
 }
 
 td{
@@ -71,6 +70,10 @@ td{
 
 .blue-row{
     background-color: aqua;
+}
+
+.large-row{
+    width: 50%;
 }
 
 /* FOOTER */
